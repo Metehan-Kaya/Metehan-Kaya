@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Metehan-Kaya
 - 👀 I’m interested in Music, Science and Engineering
-- 🌱 I’m currently learning Python and Comm. systems
+- 🌱 I’m currently learning Python
 - 📫 How to reach me Twitter --> @Metehan_K37
 
 <!---
